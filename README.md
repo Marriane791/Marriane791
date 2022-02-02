@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marriane Akeyo
-- 👀 I’m interested in python ,Machine Learning,Cyber security.
-- 🌱 I’m currently learning Machine learning and Cyber Security.
-- 💞️ I’m looking to collaborate on both Machine Learning and Cyber Security.
+- 👀 I’m interested in Javascript, python ,Machine Learning,Cyber security.
+- 🌱 I’m currently learning Typescript,Nestjs ,Machine learning and Cyber Security.
+- 💞️ I’m looking to collaborate on Full stack web development , Machine Learning and Cyber Security.
 - 📫 You can reach me via email @ annemarrieakeyo42@gmail.com
 
 <!---
